@@ -8,7 +8,7 @@
 				          <input type="text" placeholder="Enter Username" name="uname" required>
 
 					      <label for="psw"><b>Password</b></label>
-					          <input type="text" placeholder="Enter Password" name="psw" required>
+					          <input type="text" placeholder="Enter a  Password" name="psw" required>
 
 						      <button type="submit">Login</button>
 						          <label>
